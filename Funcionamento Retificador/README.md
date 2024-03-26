@@ -1,7 +1,7 @@
 # Sistemas-embarcados
 ###  Funcionamento do retificador: 
 
-Projeto desenvolvido em sala, aprendendo os conceitos básicos de sistemas embarcados e realizando e desenvolvido atividades para a melhor fixação do conteúdo.  Foi feito inicialmente uma simulação de um circuito de carregador de celular no sistema proteus. Após foi realizado a pratica da simulação inicial, colocando em pratica, com os componentes na protoboard. Enfim, fizemos um modelo 3d e pcb no proteus validando novamente como funciona todo esse circuito. 
+Projeto desenvolvido em sala, aprendendo os conceitos básicos de sistemas embarcados, colocando em prática atividades para a melhor fixação do conteúdo.  Foi feito inicialmente uma simulação de um circuito de carregador de celular no sistema proteus. Após foi realizado a pratica da simulação inicial, utilizando componentes na protoboard. Enfim, fizemos um modelo 3d e pcb no proteus validando novamente como funciona todo esse circuito. 
 
 Foi assim, por meio dessas atividades realizadas que compreendeu-se um pouco melhor sobre o funcionamento do retificador.
 Conceitos basicos:
